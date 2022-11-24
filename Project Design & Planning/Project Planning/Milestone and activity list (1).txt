@@ -1,0 +1,302 @@
+ 
+
+Project Planning Phase 
+
+Project Planning Template (Product Backlog, Sprint Planning, Stories, Story points) 
+
+ 
+
+Date 
+
+21 November 2022 
+
+Team ID 
+
+PNT2022TMID45730 
+
+Project Name 
+
+A Novel Method for Handwritten Digit 
+
+Recognition System 
+
+Maximum Marks 
+
+8 Marks 
+
+
+
+ 
+
+Product Backlog, Sprint Schedule, and Estimation (4 Marks) 
+
+ 
+
+ 
+
+ 
+
+Sprint 
+
+Functional 
+
+Requirement (Epic) 
+
+User Story 
+
+Number 
+
+User Story / Task 
+
+Story 
+
+Points 
+
+Priority 
+
+Team Members 
+
+Sprint-1 
+
+Data Collection 
+
+USN-1 
+
+As a user, I can collect the dataset from 
+various resources with different 
+handwritings. 
+
+10 
+
+Low 
+
+Ajay 
+Janani 
+
+Sprint-1 
+
+Data Preprocessing 
+
+USN-2 
+
+As a user, I can load the dataset, handling 
+the missing data, scaling and split data into 
+train and test. 
+
+10 
+
+Medium 
+
+ 
+
+Ajay 
+Janani 
+
+Sprint-2 
+
+Model Building 
+
+USN-3 
+
+As a user, I will get an application with ML 
+model which provides high accuracy of 
+recognized handwritten digit. 
+
+5 
+
+High 
+
+Ajay Janani 
+Pavithra 
+
+Sprint-2 
+
+Add CNN layers 
+
+USN-4 
+
+Creating the model and adding the input, 
+hidden, and output layers to it. 
+
+5 
+
+High 
+
+Ajay Janani 
+Pavithra 
+
+Sprint-2 
+
+Compiling the model 
+
+USN-5 
+
+With both the training data defined and 
+
+model defined, it's time to configure the 
+
+2 
+
+Medium 
+
+Pavithra Janani 
+
+Ajay 
+
+
+
+
+ 
+
+Sprint 
+
+Functional 
+Requirement (Epic) 
+
+User Story 
+Number 
+
+User Story / Task 
+
+Story 
+Points 
+
+Priority 
+
+Team Members 
+
+ 
+
+ 
+
+ 
+
+learning process. 
+
+ 
+
+ 
+
+ 
+
+Sprint-2 
+
+Train & test the 
+model 
+
+USN-6 
+
+As a user, let us train our model with our 
+image dataset. 
+
+6 
+
+Medium 
+
+Ajay Pavithra 
+Janani 
+
+Sprint-2 
+
+Save the model 
+
+USN-7 
+
+As a user, the model is saved & integrated 
+with an android application or web 
+application in order to predict something. 
+
+2 
+
+Low 
+
+Ajay Pavithra 
+
+Sprint-3 
+
+Building UI 
+Application 
+
+USN-8 
+
+As a user, I will upload the handwritten digit 
+image to the application by clicking a upload 
+button. 
+
+5 
+
+High 
+
+Pavithra Ajay 
+Janani 
+
+Sprint-3 
+
+ 
+
+USN-9 
+
+As a user, I can know the details of the 
+fundamental usage of the application. 
+
+5 
+
+Low 
+
+Pavithra K 
+
+Sprint-3 
+
+ 
+
+USN-10 
+
+As a user, I can see the predicted / 
+recognized digits in the application. 
+
+5 
+
+Medium 
+
+Ajay Pavithra 
+Janani 
+
+Sprint-4 
+
+Train the model on 
+IBM 
+
+USN-11 
+
+As a user, I train the model on IBM and 
+integrate flask/Django with scoring end 
+point. 
+
+10 
+
+High 
+
+Janani Pavithra 
+Ajay 
+
+Sprint-4 
+
+Cloud Deployment 
+
+USN-12 
+
+As a user, I can access the web application 
+and make the use of the product from 
+anywhere. 
+
+10 
+
+High 
+
+Janani pavithra 
+
+
+
+ 
+
+
